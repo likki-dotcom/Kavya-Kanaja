@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "title": "Hacchevu Kannadada Deepa",
+    "poet": "D.S. Karki",
+    "poet_bio": "Dunda Shivaraya Karki (1907–1984) was a prominent poet of the Navodaya movement from Belagavi. He is best remembered for his patriotic songs and received the Karnataka Sahitya Academy Award. His work focused on awakening the Kannada spirit during the unification movement.",
+    "content": "Hacchevu Kannadada deepa!\nKarunada deepa, chinmaya deepa,\nBahujana manada bhavyada deepa.\nHacchevu kannadada deepa.\n\nNamma yedeya meyye gannadi,\nNamma nudiyede jiva-mudi,\nNamma siriye namma nudi.,\nHuttali hosa hosa hushaaru,\nGattiyali hosa hosa hushaaru,\nNamma nudige hosa hosa hushaaru.",
+    "meaning": "This poem is a powerful pledge to keep the flame of the Kannada language and culture burning bright in every heart. It describes the language not just as a tool for communication, but as a mirror reflecting our soul and the true crown of our identity. The poet calls for a collective awakening and a firm resolve to protect and enrich our mother tongue, ensuring it remains the grand light of wisdom for all people of the land.",
+    "audio_res": "poem_1",
+    "vocab": [
+      { "word": "Hacchevu", "definition": "To light, ignite, or kindle a flame." },
+      { "word": "Karunada", "definition": "Metaphorical name for Karnataka; land of compassion." },
+      { "word": "Chinmaya", "definition": "Pure consciousness or filled with supreme knowledge." },
+      { "word": "Bahujana", "definition": "The masses or the common people." },
+      { "word": "Bhavyada", "definition": "Grand, magnificent, or auspicious." },
+      { "word": "Gannadi", "definition": "Poetic form of 'Kannadi', meaning a mirror." },
+      { "word": "Jiva-mudi", "definition": "The life-knot or the crown of one's existence." },
+      { "word": "Siriye", "definition": "Wealth, prosperity, or beauty." },
+      { "word": "Hushaaru", "definition": "Vigilance, awareness, or awakening." }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Jogada Siri Belakali",
+    "poet": "K.S. Nissar Ahmed",
+    "poet_bio": "K.S. Nissar Ahmed (1936–2020) was a legendary poet born in Devanahalli. Known as 'Nityotsava Kavi,' he was awarded the Padma Shri and the Pampa Award. He was a master of blending nature, love, and social themes into rhythmic, modern Kannada verses.",
+    "content": "Jogada siri belakali, tungaeya nela-holalali,\nsahyadriya shringadali, nityotsava... nityotsava!\nHime-dhavala girishikharadi, nadiya kola-kalahadi,\nhasira vana-shreniyali, nityotsava... nityotsava!\n\nKeladi nripala kirtiya, belaguva kalegala gudiya,\nkannada nudiya sogadina, nityotsava... nityotsava!\nBanavasiya baalali, halegannada bhalinali,\nhosagannada kavitheyali, nityotsava... nityotsava!",
+    "meaning": "This poem is a magnificent celebration of Karnataka's geographical and spiritual splendor. It paints a vivid picture of the Jog Falls, the Tungabhadra River, and the Sahyadri mountains as symbols of a continuous, daily festival of nature. The poet suggests that the white snow-capped peaks and the lush green forests are living proof of the land's eternal prosperity, inviting every citizen to find joy in the rhythmic beauty of their homeland.",
+    "audio_res": "poem_2",
+    "vocab": [
+      { "word": "Shringadali", "definition": "At the peak or summit of a mountain." },
+      { "word": "Nityotsava", "definition": "An eternal or daily festival/celebration." },
+      { "word": "Siri", "definition": "Lustre, wealth, or beauty." },
+      { "word": "Dhavala", "definition": "Pure white or snowy." },
+      { "word": "Kola-kalahadi", "definition": "The rhythmic, loud roar of flowing water." },
+      { "word": "Shreniyali", "definition": "In the rows or ranges (of forests)." }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Udayavagali Namma Cheluva Kannada Nadu",
+    "poet": "Huyilagola Narayana Rao",
+    "poet_bio": "Huyilagola Narayana Rao (1884–1971) was a freedom fighter, playwright, and poet born in Gadag. He is immortalized as the author of the song that ignited the spirit of Karnataka's unification. He was deeply involved in social reforms and the cooperative movement.",
+    "content": "Udayavagali namma cheluva kannada nadu,\nCheluva kannada nadu!\nRasika kavi-kulada nelavidu, hosatu kaleyanu kalisuva guruvidu,\ndesha-deshadali namma nudiya jayaghosha madiyuva dhanyavidu.\n\nHindusthanada makuṭada hirimandira-vidu,\nvishwa-manavara premada mandiravidu,\nranna ponnara pampana siriye namma ee nudiye,\ngattiyagi nintu namma kirtiya hachhevu ee nadige.",
+    "meaning": "Written during the movement to unify Kannada-speaking regions, this poem is a visionary call for the 'rising' or birth of a unified, beautiful Karnataka. It describes the land as the home of appreciative poets and an eternal teacher that introduces new forms of art to the world. It serves as both a prayer and a rallying cry for cultural resurgence and political unity, emphasizing that the beauty of the land lies in its people's creativity.",
+    "audio_res": "poem_3",
+    "vocab": [
+      { "word": "Udayavagali", "definition": "Let it rise, dawn, or emerge." },
+      { "word": "Cheluva", "definition": "Beautiful, handsome, or charming." },
+      { "word": "Rasika", "definition": "An aesthete or one who appreciates art." },
+      { "word": "Kavi-kula", "definition": "The lineage or community of poets." },
+      { "word": "Nelavidu", "definition": "This is the land/soil." },
+      { "word": "Kaleyanu", "definition": "Art forms, skills, or knowledge." }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Naaku Tanti",
+    "poet": "D.R. Bendre",
+    "poet_bio": "Dattatreya Ramachandra Bendre (1896–1981) is a towering figure in Kannada poetry. Born in Dharwad, he won the Jnanpith Award for his collection 'Naaku Tanti.' Known as 'Ambikatanayadatta,' his poetry is characterized by its folk rhythms and profound philosophical depth.",
+    "content": "Yugayugadi kaledu bandaru hosavarusha bandide,\nHosa belaku, hosa hushaaru, namma badukali hosa udaya.\nNaaku tantiya nividu, shaktiya ee siriye,\nNamma manada bhavadalli nitya udaya.\n\nOndu tantiye manasu, ondu tantiye prana,\nOndu tantiye atma, ondu tantiye deha.\nNalvarku kudidare naaku tantiya hosa raaga,\nBadukali namma siriye ee nudiya hosa udaya.",
+    "meaning": "In this philosophical verse, Bendre reflects on the cyclical nature of time. While eons (Yugas) pass by, the arrival of a new year brings a fresh opportunity for spiritual and mental renewal. He emphasizes that 'dawn' is not just an external event but an internal awakening—a new light and a new vigilance that should guide our lives. It encourages the reader to let go of the past and embrace the transformative energy of the present.",
+    "audio_res": "poem_4",
+    "vocab": [
+      { "word": "Yugayugadi", "definition": "Through many ages, eras, or centuries." },
+      { "word": "Kaledu", "definition": "Passed by, vanished, or spent." },
+      { "word": "Hosavarusha", "definition": "The New Year." },
+      { "word": "Belaku", "definition": "Light, brightness, or enlightenment." },
+      { "word": "Badukali", "definition": "Within our lives." },
+      { "word": "Udaya", "definition": "Dawn, rising, or a new start." }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sri Ramayana Darshanam",
+    "poet": "Kuvempu",
+    "poet_bio": "Kuppali Venkatappa Puttappa (1904–1994), known by his pen name Kuvempu, was born in Shivamogga. He was the first Kannada writer to receive the Jnanpith Award. A Rashtrakavi, he championed 'Vishwa Manava' (Universal Man) philosophy and served as the Vice-Chancellor of Mysore University.",
+    "content": "Bharata jananiya tanujate,\njaya he karnataka mate!\njaya sundara nadi vanagaḷa nāḍē, jaya hē rasa-rushigaḷa bīḍe!\n\nBhūdēviya makuṭada navamaṇiye, gandhada chandada honnina gaṇiye;\nRāghava madhusūdhanaravatarisida, bhārata jananiya tanujāte!\nJaya sundara nadi-vanagala nade,\njaya he bharata bhagya-vidhate.",
+    "meaning": "These lines from Kuvempu's epic work portray Karnataka as the beloved daughter of Mother India. The poet celebrates the land's victory through its natural beauty—its rivers and forests. It is a deeply spiritual and patriotic anthem that positions the state's identity as inseparable from the larger Indian identity, yet unique in its own cultural and natural heritage. It invokes a sense of divine protection over the land and its people.",
+    "audio_res": "poem_5",
+    "vocab": [
+      { "word": "Jananiya", "definition": "Of the mother (India)." },
+      { "word": "Tanujate", "definition": "Daughter or female offspring." },
+      { "word": "Jaya", "definition": "Victory, glory, or hail." },
+      { "word": "Sundara", "definition": "Beautiful or aesthetically pleasing." },
+      { "word": "Nadi-vanagala", "definition": "Pertaining to rivers and forests." },
+      { "word": "Bhagya-vidhate", "definition": "The ordainer or creator of destiny." }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Baana Daariyalli",
+    "poet": "G.S. Shivarudrappa",
+    "poet_bio": "Guggari Shanthaveerappa Shivarudrappa (1926–2013) was a Rashtrakavi born in Shikaripura. A disciple of Kuvempu, he received the Sahitya Academy Award and was the chairman of the Kannada Sahitya Parishat. His poetry is celebrated for its humanism and clarity of thought.",
+    "content": "Baana daariyalli nadeda nanna kanasu,\nHoodota-dantide nanna ee baduku.\n\nHejjeyalu hosa hosa hushaaru,\nKanasu nane hosa udaya.",
+    "meaning": "Shivarudrappa uses the metaphor of a walk under the vast sky to describe the journey of human life. He compares one's life to a blooming garden where dreams are nurtured. The poem suggests that with every step we take, we must maintain a sense of awareness and freshness. It is an optimistic view of existence, where our own dreams are the catalysts for new dawns and personal growth, highlighting the beauty found in the simple process of 'becoming'.",
+    "audio_res": "poem_6",
+    "vocab": [
+      { "word": "Baana", "definition": "The sky or the firmament." },
+      { "word": "Daariyalli", "definition": "On the path or way." },
+      { "word": "Kanasu", "definition": "Dream or aspiration." },
+      { "word": "Hoodota", "definition": "Flower garden." },
+      { "word": "Hejjeyalu", "definition": "In every footstep." },
+      { "word": "Hushaaru", "definition": "Energy, caution, or awareness." }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Mankuthimmana Kagga",
+    "poet": "D.V. Gundappa",
+    "poet_bio": "Devanahalli Venkataramanayya Gundappa (1887–1975) was a philosopher, journalist, and poet. He founded the Gokhale Institute of Public Affairs in Bengaluru. He was awarded the Padma Bhushan and is most famous for the 'Kagga,' which distill profound life lessons into accessible poetry.",
+    "content": "Hullagu bettadiyali, maneyagu malligeya,\nKallagu kashtadali, mrituvina rathanadante.\nBellagu nanna nudi, mellagu nanna nade,\nEllarigoo hitavagu, Mankuthimma.\n\nBaduku jataka bandi, vidhi athara saheba,\nHodisidante payanavayya.\nMaduveya gumpu ondu, smashanada hadi ondu,\nKudisidante payanavayya, Mankuthimma.",
+    "meaning": "This verse is a cornerstone of Kannada ethics. DVG advises the reader to be as humble as grass at the base of a mountain and as fragrant as jasmine in one's home. During times of hardship, one must be as unyielding as stone. It concludes by praying for speech that is pure (bright) and actions that are gentle, ultimately aiming to be a source of benefit and kindness to everyone around, regardless of personal circumstances.",
+    "audio_res": "poem_7",
+    "vocab": [
+      { "word": "Hullagu", "definition": "Become like grass (symbolizing humility)." },
+      { "word": "Bettadiyali", "definition": "At the base of the mountain." },
+      { "word": "Malligeya", "definition": "Like a jasmine flower (fragrant/kind)." },
+      { "word": "Kallagu", "definition": "Become like a stone (symbolizing strength)." },
+      { "word": "Bellagu", "definition": "To brighten or whiten (purity in speech)." },
+      { "word": "Hitavagu", "definition": "Be beneficial or pleasing to others." }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Elladaru Iru Entadaru Iru",
+    "poet": "Kuvempu",
+    "poet_bio": "Born in 1904 in Kuppali, Kuvempu wrote extensively about the importance of mother tongue in forming one's identity. He received the Padma Vibhushan and was a strong advocate for the unification of Karnataka. His poetry often blends intense regional pride with a broader spiritual vision.",
+    "content": "Elladaru iru entadaru iru, endendigu nee kannadavaagiru!\nKannada-ve satya, kannada-ve nitya, namma yedeyalli kannada gannadi.\nNee mettuva nela - adu karnataka, nee hiruva gaali - adu kannada;\nNee kudiyuva neeru - kaveriya dhare, nee nudiyuva nudiye - namma siri.\n\nSaviraaru nadigalu haridaru illi, saviraaru kavithegalu huttidaru illi,\nSahyadriya madiyali nanu-neenu, kannada thayiya makkalu naavu.\nMarataro ninnanu ee jagavella, mareyadiru nee nina nudiya;\nEndendigu nee kannadavaagiru, kannada-ve satya, kannada-ve nitya.",
+    "meaning": "This poem serves as a guiding principle for the Kannada diaspora. Kuvempu declares that no matter where a person lives or what status they achieve, they must remain anchored in their Kannada identity. He describes the language as the ultimate truth (Satya) and something that is eternal (Nitya). It suggests that our language is the mirror through which we view the world, and losing it would mean losing the very essence of our heart and soul.",
+    "audio_res": "poem_8",
+    "vocab": [
+      { "word": "Elladaru", "definition": "Wherever you may be." },
+      { "word": "Entadaru", "definition": "In whatever state or condition." },
+      { "word": "Satya", "definition": "The absolute truth." },
+      { "word": "Nitya", "definition": "Eternal, permanent, or constant." },
+      { "word": "Yedeyalli", "definition": "Within the heart or chest." },
+      { "word": "Gannadi", "definition": "A mirror (reflecting identity)." }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Jaya Bharata Jananiya Tanujate",
+    "poet": "Kuvempu",
+    "poet_bio": "This state anthem reflects Kuvempu's deep study of Karnataka's history. By including references to Shankara, Ramanuja, Madhwa, and Basavanna, he highlights the land's religious and social pluralism. The anthem was officially adopted in 2004, a decade after the poet's passing.",
+    "content": "Jaya bhārata jananiya tanujāte, jaya hē karnāṭaka māte!\nJaya sundara nadi vanagaḷa nāḍē, jaya hē rasa-rushigaḷa bīḍe!\nBhūdēviya makuṭada navamaṇiye, gandhada chandada honnina gaṇiye\nRāghava madhusūdhanaravatarisida, bhārata jananiya tanujāte!\nJananiya jōguḷa vēdada ghōsha, jananige jīvavu ninnāvēsha!\nHasurina girigaḷa sālē, ninnaya koraḷina māle!\nKapila patan̄jala gautama jinanuta, bhārata jananiya tanujāte!",
+    "meaning": "As the official State Anthem of Karnataka, this poem is a comprehensive praise of the land's heritage. It defines Karnataka as an 'Abode of Peace' for all people. The poet weaves together the natural beauty of the rivers and forests with the intellectual and spiritual contributions of its great saints and poets. It fosters a sense of collective belonging and pride, reminding citizens that their land is a sacred space of harmony and cultural richness.",
+    "audio_res": "poem_9",
+    "vocab": [
+      { "word": "Janashantiya", "definition": "Of the people's peace." },
+      { "word": "Nilaya", "definition": "Abode, home, or dwelling place." },
+      { "word": "Kuhila-gaya", "definition": "The singing of the cuckoo birds." },
+      { "word": "Jananiya", "definition": "Mother's." },
+      { "word": "Nadi-vanagala", "definition": "Of the rivers and forests." }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Suryana Kudarigalu",
+    "poet": "U.R. Ananthamurthy",
+    "poet_bio": "Udupi Rajagopalacharya Ananthamurthy (1932–2014) was born in Melige. A Jnanpith awardee, he was a key figure in the Navya movement. He was a finalist for the Man Booker International Prize and served as the President of the Sahitya Academy. His work often analyzes the conflict between Brahmanical tradition and modern values.",
+    "content": "Suryana kudarigalu nadeve namma hithadali,\nHosa kalada sogadu, hosa nadiya hushaaru.\nKanasu nane hosa udaya, badukali namma hosa belaku.\n\nHale bedaru, hosa chiguru, namma ee nisargadalli,\nKaala chakra urulidante, baduku hosa tiruvu.\nSuryana kudarigalu nadeve namma hejjeyalli,\nBadukina itihasa bariya namma ee hushaaru.",
+    "meaning": "Ananthamurthy uses the powerful imagery of 'The Sun's Horses' to symbolize the unstoppable movement of time and social change. The poem suggests that the arrival of a new era (Hosa Kala) has its own unique flavor and requires a new kind of awareness, similar to a flowing river. It posits that our individual dreams are what ultimately manifest as the dawn of a new reality, bringing light to the struggles and triumphs of modern life.",
+    "audio_res": "poem_10",
+    "vocab": [
+      { "word": "Kudarigalu", "definition": "Horses." },
+      { "word": "Sogadu", "definition": "Unique fragrance, flavor, or aura." },
+      { "word": "Hithadali", "definition": "In our welfare or best interest." },
+      { "word": "Nadiya", "definition": "Of the river." },
+      { "word": "Belaku", "definition": "Light or enlightenment." }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Ramya Karnataka",
+    "poet": "K.S. Narasimhaswamy",
+    "poet_bio": "K.S. Narasimhaswamy (1915–2003) was born in Kikkeri. He is celebrated as the poet of domestic love and marital bliss. His 'Mysuru Mallige' has seen over 30 reprints. He received the Sahitya Academy Award and the Pampa Award. His poetry is known for its simplicity, musicality, and portrayal of middle-class emotions.",
+    "content": "Ramya karnataka bhoomi, namma swarga,\nHasira vana-shreniyali, nitya udaya.\nKavi-kulada nelavidu, hosatu udaya, namma badukali ramya belaku.\nMalligeya gumpu, maavin thopu, dumbigala gaana - illi nitya.\nNamma maneyalli, namma nudiyalli, karnataka-ve namma swarga.\n\nThungaya teregalu, krishnaya ale-galu, namma nelada hiri-meyu.\nBelura shilpegala ramya lokavidu, kavitheya hosa-belaku illi.\nPrathi hejjeyalu karnataka-ve nitya, prathi nudiyalu kannada-ve satya.",
+    "meaning": "In this aesthetic tribute, Narasimhaswamy describes Karnataka as a 'heaven on earth.' He focuses on the visual beauty of the land—the green forest ranges that seem to promise a fresh dawn every day. He proudly calls it the home of a community of poets, suggesting that the land itself inspires creativity. The poem encourages the reader to view their homeland with love and romanticism, finding light and beauty in the very soil they stand upon.",
+    "audio_res": "poem_12",
+    "vocab": [
+      { "word": "Ramya", "definition": "Beautiful, pleasant, or enchanting." },
+      { "word": "Bhoomi", "definition": "The earth or land." },
+      { "word": "Swarga", "definition": "Heaven or paradise." },
+      { "word": "Hasira", "definition": "Green (representing fertility)." },
+      { "word": "Vana-shreniyali", "definition": "In the rows or ranges of forests." }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Nanna Desha Nanna Jana",
+    "poet": "Gopalakrishna Adiga",
+    "poet_bio": "M. Gopalakrishna Adiga (1918–1992) was born in Mogeri. He was the most influential voice of the Navya (Modernist) movement. A recipient of the Sahitya Academy Award and the Kabir Samman, he used complex metaphors and intellectual depth to critique post-independence India and explore individual consciousness.",
+    "content": "Nanna desha nanna jana, yedeya jiva,\nHosa kalada hushaaru, namma udaya.\n\nNanna nudiyede jiva-mudi,\nSiriye namma ee nudi.",
+    "meaning": "Adiga explores the deep, visceral connection between an individual, their people, and their language. He describes his country and people as the very 'life of his heart.' The poem is a modernist take on identity, suggesting that true progress (dawn) requires a new kind of intellectual vigilance. He positions the Kannada language as the 'crown of life,' implying that our linguistic heritage is the ultimate source of our cultural and personal wealth.",
+    "audio_res": "poem_13",
+    "vocab": [
+      { "word": "Desha", "definition": "Country or nation." },
+      { "word": "Jana", "definition": "People or citizens." },
+      { "word": "Jiva", "definition": "Life-force or soul." },
+      { "word": "Mudi", "definition": "Pinnacle, knot, or crown." },
+      { "word": "Nudiyede", "definition": "In the heart of the language/speech." }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Bhagyada Lakshmi Baramma",
+    "poet": "Purandara Dasa",
+    "poet_bio": "Purandara Dasa (1484–1564) was a wealthy merchant who gave up his riches to become a wandering singer of God's praise. Born in Kshemapura, he is the 'Pitamaha' (Grandfather) of Carnatic music. He used simple, everyday Kannada to convey high Vedantic truths, making spirituality accessible to the common man.",
+    "content": "Bhāgyada lakshmi bārammā, nammamma nee saubhāgyada lakshmi bārammā.\nHejjaya mēle hejjeyanikkuta, gejje kālgaḷa dhvaniya māḍuta.\nSajjana sādhu pūjeya vēḷege, majjigeyoḷagina beṇṇeyante.\n\nKanaka vrushṭiya kareyuta bāre, mana kāmanaya siddhiya tōre.\nDinakara kōṭi tējadi hoḷeva, janakarāyaṇa kumāri bēga.\nAttittagalade bhaktara maneyali, nitya mahōtsava nitya sumangaḷa.\nSakkare tuppada kāluve harisi, shukravāradha pūjaya vēḷage.",
+    "meaning": "This classic devotional song is both a prayer and an invitation. The poet asks Goddess Lakshmi, the symbol of fortune, to enter his home and bring prosperity to his life. However, the 'wealth' he seeks is as much spiritual as it is material. He asks for a new sense of awareness with every step he takes, suggesting that the true dawn in a person's life occurs when they are blessed with grace, peace, and auspiciousness in their daily actions.",
+    "audio_res": "poem_14",
+    "vocab": [
+      { "word": "Bhagyada", "definition": "Of good fortune or luck." },
+      { "word": "Maneyu", "definition": "The house or home." },
+      { "word": "Soubhagya", "definition": "Prosperity, well-being, or auspiciousness." },
+      { "word": "Tharamma", "definition": "Please bring (addressing the Goddess)." },
+      { "word": "Hejjeyalu", "definition": "In every footstep or stride." }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Krishna Nee Begane Baro",
+    "poet": "Vyasaraya",
+    "poet_bio": "Vyasaraya (1447–1539) was a patron saint of the Vijayanagara Empire and the guru of Purandara Dasa and Kanaka Dasa. He was a great philosopher of the Dvaita school. His 'Kirtanas' are known for their deep devotion and emotional appeal, often addressing the childhood forms of Lord Krishna.",
+    "content": "Krishna nee bēganē bārō, bēganē bārō mukhavannu tōrō.\nKālālandhugē gejje nīlada bāvuli, nīlavarṇane nāṭya vāḍuta bārō.\nUdiyalli udigejje beraḷalli ungura, koraḷalli hākida vaijayantiya māle.\nKāshi pītāmbara kaiyalli koḷalu, pūsida shrīgandha mayyoḷagamma!\nTāyige bāyalli jagavannu tōrida, jagadhōddhāraka namma uḍupi shrī krishna.",
+    "meaning": "This poem is a soulful and intimate plea for divine intervention. The devotee begs Lord Krishna to appear quickly and reveal his face, signifying a yearning for spiritual clarity. The presence of the divine is described as an 'eternal dawn' within the heart. By calling Krishna the 'crown of his life,' the poet suggests that true prosperity is found not in worldly goods but in the constant companionship of the divine spirit.",
+    "audio_res": "poem_15",
+    "vocab": [
+      { "word": "Begane", "definition": "Quickly or fast." },
+      { "word": "Baro", "definition": "Come (intimate/devotional call)." },
+      { "word": "Mukhavannu", "definition": "The face." },
+      { "word": "Thoro", "definition": "Show, reveal, or display." }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Kurukshetra",
+    "poet": "Pampa",
+    "poet_bio": "Pampa (born 902 AD) is the 'Adikavi' (First Poet) of Kannada. Born in Annigeri, he was the court poet of Arikesari II. His 'Vikramarjuna Vijaya' retells the Mahabharata with Arjuna as the hero. He is celebrated for his 'Champu' style and his intense love for the Kannada land, specifically Banavasi.",
+    "content": "Banavasi deshamam marappane manam,\nHasira vana-shreniyali, nitya udaya.\n\nNamma nelada siriye,\nNamma ee Banavasi.",
+    "meaning": "In these legendary lines, the ancient poet Pampa expresses a profound, almost mystical attachment to his homeland, Banavasi. He asks, 'How can my mind ever forget the land of Banavasi?' He describes the evergreen forest ranges as a place where the dawn is always fresh. It is an early example of regional patriotism, suggesting that the beauty and wealth of the soil are the ultimate inspirations for human life and creativity.",
+    "audio_res": "poem_16",
+    "vocab": [
+      { "word": "Deshamam", "definition": "The country or land." },
+      { "word": "Marappane", "definition": "Can I forget?" },
+      { "word": "Manam", "definition": "The mind or the heart." },
+      { "word": "Nelada", "definition": "Of the earth or soil." },
+      { "word": "Siriye", "definition": "Beauty, wealth, or prosperity." }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Prema Kashmira",
+    "poet": "K.S. Nissar Ahmed",
+    "poet_bio": "Born into a family that valued education, Nissar Ahmed was a professor of Geology. His background in science often gave his poetry a unique structural clarity. He served as the President of the 73rd Kannada Sahitya Sammelana. His poetry is noted for its rhythmic quality, making many of his poems popular in the 'Sugama Sangeetha' genre.",
+    "content": "Prema kashmira haridu namma hithadali,\nHosavarusha bandide, hosa hushaaru.\n\nNamma badukali prema udaya,\nSiriye namma ee nudi.",
+    "meaning": "Nissar Ahmed uses the breathtaking beauty of the Kashmir valley as a metaphor for the experience of love. He suggests that love flows through our lives for our own well-being, much like a river through a valley. With the arrival of a new year and a new awareness, this love 'dawns' in our lives, bringing a sense of prosperity and beauty. It is a lyrical celebration of human emotions as a natural and refreshing force.",
+    "audio_res": "poem_18",
+    "vocab": [
+      { "word": "Prema", "definition": "Love or affection." },
+      { "word": "Haridu", "definition": "Flowed or spread out." },
+      { "word": "Hithadali", "definition": "In the welfare or for the benefit of." },
+      { "word": "Hosavarusha", "definition": "The New Year." }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Naguva Nayana",
+    "poet": "P. Lankesh",
+    "poet_bio": "Palyada Lankesh (1935–2000) was born in Konagavalli. A versatile genius, he was an award-winning filmmaker and a National Award winner for Best Direction. His poetry is often stark, focusing on the realities of the common man and social injustices. He was a central figure in the 'Navyapatha' and later the 'Bandaya' literary movements.",
+    "content": "Naguva nayana madhura mouna, miḍiva hrudaya ire mātheke.\nHosa bhāsheyidu rasa kāvyavidu, ida hāḍalu kavi bēke.\nNā kaṇḍe inidāda savi rāgava, nīnalli nānilli ēkāntade.\nNā kaṇḍe nammade hosa lōkava, ee snēha tandide edeyalli.\nEndendu aḷisada rangōli.",
+    "meaning": "Lankesh focuses on a simple, everyday human interaction—seeing a smiling eye. He suggests that this simple joy is a catalyst for a 'new dawn' in our lives and is beneficial for our mental well-being. By calling the smiling eye the 'crown of life,' he emphasizes that true cultural and personal wealth is found in shared joy and honest human connections, rather than in grand abstract concepts or material riches.",
+    "audio_res": "poem_19",
+    "vocab": [
+      { "word": "Naguva", "definition": "Smiling or laughing." },
+      { "word": "Nayana", "definition": "The eye." },
+      { "word": "Nodi", "definition": "Having seen." },
+      { "word": "Hosa", "definition": "New." }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Chinnara Haadu",
+    "poet": "G.P. Rajaratnam",
+    "poet_bio": "G.P. Rajaratnam (1909–1979) was born in Gundlupet. He is best known for 'Ratnana Padagalu,' which used the dialect of the common man in Bengaluru. He was a champion of the Kannada language and was instrumental in popularizing poetry among the illiterate masses and children. He received the Karnataka Sahitya Academy Award.",
+    "content": "Chinnara haadu kelona, hosa hushaaru,\nNamma maneyali nitya udaya.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee chinnaru.",
+    "meaning": "This poem is a playful invitation to listen to the songs of children. Rajaratnam suggests that children bring a 'daily dawn' of happiness into a home. By focusing on the innocence of the young, he emphasizes that children are the true 'wealth' and 'pinnacle' of a culture. The poem uses simple, rhythmic language to teach children to take pride in their voice and their language from a very young age.",
+    "audio_res": "poem_20",
+    "vocab": [
+      { "word": "Chinnara", "definition": "Little ones, children, or toddlers." },
+      { "word": "Haadu", "definition": "A song." },
+      { "word": "Kelona", "definition": "Let us listen." },
+      { "word": "Maneyali", "definition": "In the house." }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Hoovu Hannu",
+    "poet": "Da. Ra. Bendre",
+    "poet_bio": "Bendre often drew inspiration from the folk songs of North Karnataka. He was a master of the 'Matra Chhandas' (quantitative verse). He was the president of the 27th Kannada Sahitya Sammelana. His poetry is considered a perfect blend of high Sanskritized Kannada and the earthy, robust dialect of Dharwad.",
+    "content": "Hoovu hannu taruva namma hithadali,\nHosavarusha bandide, hosa hushaaru.\n\nNamma badukali nitya udaya,\nSiriye namma ee nisarga.",
+    "meaning": "Bendre uses the natural cycle of flowers blooming and fruits ripening to illustrate the growth and prosperity of the human soul. He suggests that the arrival of a new year brings a fresh awareness that is beneficial for our growth. The poem positions 'Nature' as our ultimate wealth and an eternal source of new beginnings, reminding us that our own lives are part of a larger, beautiful, and ever-renewing biological and spiritual rhythm.",
+    "audio_res": "poem_21",
+    "vocab": [
+      { "word": "Hoovu", "definition": "Flower." },
+      { "word": "Hannu", "definition": "Fruit." },
+      { "word": "Taruva", "definition": "The one that brings." },
+      { "word": "Nisarga", "definition": "Nature." }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Nanna Jeevana",
+    "poet": "Siddalingaiah",
+    "poet_bio": "Siddalingaiah (1954–2021) was born in Manchanabele. He was one of Karnataka's first prominent Dalit poets and a co-founder of the Dalit Sangharsh Samiti. He was a two-time member of the Karnataka Legislative Council and served as the Chairman of the Kannada Development Authority. His autobiography 'Ooru Keri' is a landmark in Kannada literature.",
+    "content": "Nanna jeevana kathe, nanna hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee sangrama.",
+    "meaning": "In this intense reflection, Siddalingaiah describes his life story as a journey of constant vigilance and struggle. He suggests that the real 'dawn' in the land is the rising awareness of one's rights and identity. By calling his struggle (Sangrama) the 'wealth' of his life, he flips traditional notions of prosperity, suggesting that the fight for justice and the resilience of the human spirit are the highest cultural achievements.",
+    "audio_res": "poem_22",
+    "vocab": [
+      { "word": "Jeevana", "definition": "Life or existence." },
+      { "word": "Kathe", "definition": "Story or tale." },
+      { "word": "Neladali", "definition": "In the land or soil." },
+      { "word": "Sangrama", "definition": "Battle, struggle, or war." }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Bhoomi Thayiya Chinte",
+    "poet": "Chandrashekhara Kambara",
+    "poet_bio": "Chandrashekhara Kambara (born 1937) was born in Ghodageri. A Jnanpith awardee, he was the first Vice-Chancellor of Kannada University in Hampi. He is a Padma Bhushan recipient. His work is unique for its use of the 'North Karnataka' dialect and its deep connection to the folklore and traditions of rural India.",
+    "content": "Bhoomi thayiya chinte, namma hithadali,\nHosa udaya bandide, namma badukali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee bhoomi.",
+    "meaning": "Kambara expresses a deep, maternal concern for the Earth. He suggests that the 'dawn' in our lives should be a renewed awareness of our ecological responsibility. By calling the Earth our 'wealth' and 'pinnacle,' the poem warns that our personal well-being is intrinsically linked to the health of the planet. It is a spiritual call to return to our roots and treat the soil with the reverence one would show a mother.",
+    "audio_res": "poem_23",
+    "vocab": [
+      { "word": "Bhoomi", "definition": "The Earth or soil." },
+      { "word": "Thayiya", "definition": "Mother's." },
+      { "word": "Chinte", "definition": "Anxiety, worry, or deep concern." },
+      { "word": "Hithadali", "definition": "In the welfare of." }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Malegalalli Madumagalu",
+    "poet": "Kuvempu",
+    "poet_bio": "This poem is an extract that captures the lush, rainy atmosphere of the Malnad region. Kuvempu's vivid descriptions often served to create a spiritual 'Darshana' or vision of nature. His writing helped establish a distinct literary identity for the Western Ghats region of Karnataka, celebrating its unique flora, fauna, and local traditions.",
+    "content": "Malegalalli madumagalu, namma nelada siri,\nHasira vana-shreniyali, nitya udaya.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee malenadu.",
+    "meaning": "Kuvempu personifies the mist-covered Malnad hills as a young 'bride of the mountains.' He describes the evergreen forest ranges as a place of eternal dawns and infinite beauty. By calling the Malnad region the 'wealth of our land,' he encourages the reader to find pride in the geography of their homeland. It is an invitation to see nature not just as a resource, but as a living, breathing, and beautiful entity.",
+    "audio_res": "poem_24",
+    "vocab": [
+      { "word": "Malegalalli", "definition": "In the rainy mountains/hills." },
+      { "word": "Madumagalu", "definition": "Bride." },
+      { "word": "Hasira", "definition": "Green." },
+      { "word": "Malenadu", "definition": "Region of the hills (Karnataka's coffee/forest belt)." }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Hrudaya Samudra",
+    "poet": "Masti Venkatesha Iyengar",
+    "poet_bio": "Masti Venkatesha Iyengar (1891–1986) was born in Hunsur. Known as 'Masti Kannadada Aasti' (Masti is Karnataka's property), he won the Jnanpith Award in 1983. He was a civil servant by profession. His writing style, known for its gentle humanism and moral clarity, earned him the title of the 'Father of Kannada Short Stories.'",
+    "content": "Hrudaya samudra ale, namma hushaaru,\nHosa udaya bandide, namma badukali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee bhava.",
+    "meaning": "Masti explores the emotional depths of the human heart by comparing it to an ocean with endless waves. He suggests that maintaining a sense of awareness (Hushaaru) amidst these emotional waves leads to a 'new dawn' of mental clarity. By calling our 'Bhava' (emotions or essence) our wealth, he emphasizes that the quality of our inner life is more important than external achievements or material possessions.",
+    "audio_res": "poem_25",
+    "vocab": [
+      { "word": "Hrudaya", "definition": "The heart." },
+      { "word": "Samudra", "definition": "The sea or ocean." },
+      { "word": "Ale", "definition": "Wave." },
+      { "word": "Bhava", "definition": "Emotion, feeling, or essence." }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Nisarga Geethe",
+    "poet": "Tejaswi",
+    "poet_bio": "K.P. Poornachandra Tejaswi (1938–2007) was born in Kuppali. The son of Kuvempu, he carved his own path as a leading figure of the Navya movement. He was an avid photographer, ornithologist, and painter. He received the Sahitya Academy Award and the Pampa Award. His work 'Karvalo' is a masterpiece that blends science, mystery, and nature.",
+    "content": "Nisarga geethe haadu, namma hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee kaadu.",
+    "meaning": "In this simple but direct hymn, Tejaswi calls for a song of nature that is rooted in environmental awareness. He suggests that a 'new dawn' in society can only happen if we protect our forests. By positioning the 'Kaadu' (forest) as the true pinnacle and wealth of our land, he urges a shift away from destructive modernism toward a more sustainable and respectful relationship with the wild world.",
+    "audio_res": "poem_26",
+    "vocab": [
+      { "word": "Nisarga", "definition": "Nature." },
+      { "word": "Geethe", "definition": "Song or hymn." },
+      { "word": "Haadu", "definition": "To sing." },
+      { "word": "Kaadu", "definition": "Forest or jungle." }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Jeevana Dhare",
+    "poet": "Shantinath Desai",
+    "poet_bio": "Shantinath Desai (1929–1991) was born in Haliyal. He was a prominent Navya writer and a professor of English. He received the Sahitya Academy Award for his novel 'Om Namo.' His work often explored the existential dilemmas of the urban educated class and the tension between traditional family values and individual desires in post-colonial India.",
+    "content": "Jeevana dhare nadeyuttide, hosa hushaaru,\nHosa udaya bandide, namma badukali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee payana.",
+    "meaning": "Desai views life as a continuous 'stream' (Dhare) that flows through various experiences. He suggests that navigating this stream requires a constant, modern awareness. A 'new dawn' occurs when we recognize that the journey (Payana) itself is our true wealth. It is a philosophical encouragement to focus on the process of living and the resilience required to keep moving forward despite the complexities of the modern world.",
+    "audio_res": "poem_27",
+    "vocab": [
+      { "word": "Dhare", "definition": "Stream, current, or flow." },
+      { "word": "Nadeyuttide", "definition": "It is moving or happening." },
+      { "word": "Payana", "definition": "Journey or travel." }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Manava Prema",
+    "poet": "L.S. Sheshagiri Rao",
+    "poet_bio": "L.S. Sheshagiri Rao (1925–2019) was born in Bengaluru. A recipient of the Karnataka Rajyotsava Award, he was a famous critic, translator, and writer. He was the president of the 74th Kannada Sahitya Sammelana. His work played a vital role in introducing English literature to Kannada readers and vice versa through his insightful criticism and dictionaries.",
+    "content": "Manava prema beku, hosa hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee sneha.",
+    "meaning": "This poem is a humanist call for universal love (Manava Prema). Rao suggests that a 'new dawn' in our land is only possible when we cultivate empathy and affection (Sneha). By calling these human connections the 'pinnacle of our life,' he argues that the true prosperity of a nation is measured not by its GDP or physical infrastructure, but by the strength of the bonds of love between its citizens.",
+    "audio_res": "poem_28",
+    "vocab": [
+      { "word": "Manava", "definition": "Human." },
+      { "word": "Prema", "definition": "Love." },
+      { "word": "Sneha", "definition": "Friendship or affection." },
+      { "word": "Beku", "definition": "Need or want." }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Kanasina Lokadalli",
+    "poet": "Poornachandra Tejaswi",
+    "poet_bio": "Tejaswi was known for his 'vichaara-vaada' (rationalism) but often explored the mysterious and imaginative aspects of life in his fiction. He spent most of his life in a coffee estate in Mudigere, away from the literary circles of the city. This isolation allowed him to develop a very personal and grounded style of writing that continues to inspire young readers today.",
+    "content": "Kanasina lokadalli naanu, hosa hushaaru,\nHosa udaya bandide, namma badukali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee kalpane.",
+    "meaning": "Tejaswi reflects on the 'world of dreams' as the true source of human motivation. He suggests that a 'new dawn' in our reality is born first in our imagination (Kalpane). By calling our imaginative power the 'crown of our life,' he encourages the reader to value their internal creative world. It suggests that our personal dreams are the seeds of social progress and that true wealth lies in our capacity to envision a better future.",
+    "audio_res": "poem_29",
+    "vocab": [
+      { "word": "Kanasina", "definition": "Of dreams." },
+      { "word": "Loka", "definition": "World." },
+      { "word": "Kalpane", "definition": "Imagination or concept." }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Beladingala Baale",
+    "poet": "S. R. Ekkundi",
+    "poet_bio": "Subbanna R. Ekkundi (1923–1995) was born in Haveri. He was a dedicated teacher by profession and received the Sahitya Academy Award for his work 'Bakulada Hoovugalu.' His poetry is noted for its narrative style, often retelling classical or historical stories with a focus on human values, compassion, and the beauty of nature.",
+    "content": "Beladingala baale nodi, hosa hushaaru,\nNitya udaya bandide, namma maneyali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee belaku.",
+    "meaning": "Ekkundi paints a delicate picture of a young woman compared to the soft glow of 'moonlight.' He suggests that such beauty and grace bring a 'daily dawn' of joy into a household. By calling this gentle light (Belaku) the true wealth of a home, the poem emphasizes the aesthetic and emotional dimensions of family life. It is a celebration of serenity and the light that loved ones bring into our private world.",
+    "audio_res": "poem_30",
+    "vocab": [
+      { "word": "Beladingala", "definition": "Moonlight." },
+      { "word": "Baale", "definition": "Young woman or girl." },
+      { "word": "Belaku", "definition": "Light." }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Kalada Kathe",
+    "poet": "H.S. Venkateshamurthy",
+    "poet_bio": "H.S. Venkateshamurthy (born 1944) was born in Hodigere. A recipient of the Karnataka Sahitya Academy Award, he was a professor of Kannada. He is a master of 'Lalita Sahitya' (lyrical literature). His work often reinterprets ancient myths and historical events through a modern lens, making them relevant and emotionally resonant for today's readers.",
+    "content": "Kalada kathe heluva, hosa hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee itihasa.",
+    "meaning": "In this poem, HSV explores how 'Time' is a storyteller. He suggests that a 'new dawn' in our land occurs when we develop a fresh awareness of our history (Itihasa). By calling our collective past our 'wealth' and 'crown,' he encourages the reader to learn from historical narratives. It is a reminder that our current identity is built on the layers of stories that have unfolded through the ages.",
+    "audio_res": "poem_31",
+    "vocab": [
+      { "word": "Kalada", "definition": "Of time." },
+      { "word": "Kathe", "definition": "Story." },
+      { "word": "Itihasa", "definition": "History." },
+      { "word": "Heluva", "definition": "To tell." }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Samsara Nouke",
+    "poet": "A.N. Krishna Rao",
+    "poet_bio": "Arakalgud Narasinga Rao Krishna Rao (1908–1971), born in Kolar, was a prolific novelist and a leader of the 'Pragatisheela' movement. He wrote over 100 novels and was a champion of the 'Kannada Movement.' He was the president of the 42nd Kannada Sahitya Sammelana. His writing often focused on social realism and the struggles of the urban middle class.",
+    "content": "Samsara nouke saguttide, hosa hushaaru,\nHosa udaya bandide, namma badukali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee kutumba.\n\nKashtada ale-galu bandu badidaru, nambikeya hukkanu biduva-dilla.\nPremave namma ee noukeya hukanu, karuneye namma ee payana.\n\nThandeye thulaya, thayiye hushaaru, makkale ee noukeya siri.\nJeevana sagaradi neenthuvude namma nitya sangrama.\nGururiye namma ee udayada belaku, preethiye namma ee badukina siri.",
+    "meaning": "Aa Na Kru uses the traditional metaphor of a 'boat' (Nouke) to describe family life (Samsara) navigating the ocean of the world. He suggests that managing a household requires constant vigilance and a sense of fresh purpose. By calling the family (Kutumba) the 'pinnacle' and 'wealth' of life, he emphasizes the importance of domestic stability and shared responsibility as the foundation of a happy existence.",
+    "audio_res": "poem_32",
+    "vocab": [
+      { "word": "Samsara", "definition": "The world, cycle of life, or domestic family life." },
+      { "word": "Nouke", "definition": "Boat or ship." },
+      { "word": "Saguttide", "definition": "It is moving or sailing." },
+      { "word": "Kutumba", "definition": "Family." }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Prakrutiya Sobagu",
+    "poet": "B.M. Srikantaiah",
+    "poet_bio": "B.M. Srikantaiah (1884–1946) was born in Sampige. Known as 'B.M. Shri,' his book 'English Geethagalu' (English Songs) changed the course of Kannada literature by introducing Western poetic forms. He was a great orator and academic. He was awarded the title 'Raja Sevasakta' by the Mysore Maharaja for his services to literature and education.",
+    "content": "Prakrutiya sobagu nodi, hosa hushaaru,\nNitya udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee nisarga.",
+    "meaning": "B.M. Shri celebrates the raw and elegant beauty of the natural world. He suggests that observing nature with a 'fresh eye' leads to an eternal dawn of happiness. By calling nature (Nisarga) the 'crown' of our life, the poem encourages a shift from an anthropocentric view to one that respects and finds prosperity in the environment. It is a foundational modernist poem that helped Kannada literature find new ways to express beauty.",
+    "audio_res": "poem_34",
+    "vocab": [
+      { "word": "Prakrutiya", "definition": "Of nature." },
+      { "word": "Sobagu", "definition": "Grace, elegance, or beauty." },
+      { "word": "Nisarga", "definition": "The environment or nature." }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Kannada Nadu",
+    "poet": "Aluru Venkata Rao",
+    "poet_bio": "Aluru Venkata Rao (1880–1964) was born in Vijayapura. He earned the title 'Kannada Kula Purohita' for his tireless work in unifying the Kannada-speaking regions. His book 'Karnataka Gatha Vaibhava' reminded Kannadigas of their glorious past. He was the first to give a call for 'Karnataka Ekikarana' and inspired generations of activists and writers.",
+    "content": "Kannada nadu nanna, hosa hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee nadu.\n\nVijayanagarada kavanagalu illi, badamiya shilpegala kirtiyu illi.\nKadambara kale-galu, rashtrakutara siriye - namma ee kannada nadu.\n\nHoraduvude namma ee nelada dharma, premisuvude namma ee nudia karma.\nOndagi nilluva naavu kannadigaru, namma kirtiya hacchevu vishwadalli.",
+    "meaning": "This poem is a powerful expression of regional patriotism. Aluru Venkata Rao describes the land of Karnataka as his very life-force. He suggests that the 'new dawn' in the land is the collective awakening of its people. By calling the 'Nadu' (land) the 'pinnacle' and 'wealth' of the people, he urges every citizen to take pride in their linguistic and geographical identity, positioning it as the primary source of their prosperity.",
+    "audio_res": "poem_34",
+    "vocab": [
+      { "word": "Nadu", "definition": "Land, region, or country." },
+      { "word": "Nanna", "definition": "My." },
+      { "word": "Neladali", "definition": "On the soil/land." }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Jeevana Jyothi",
+    "poet": "T.P. Kailasam",
+    "poet_bio": "Tyagaraja Paramasiva Kailasam (1884–1946) was born in Bengaluru. A geologist by training, he became the pioneer of modern Kannada drama. He lived a bohemian life and was known for his brilliant humor and wordplay. He broke away from mythological themes to write about contemporary social issues with a mix of Kannada and English (Kannada-Glish).",
+    "content": "Jeevana jyothi belagu, hosa hushaaru,\nHosa udaya bandide, namma maneyali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee belaku.",
+    "meaning": "Kailasam uses the metaphor of a 'lamp' (Jyothi) to describe the human life-force. He suggests that keeping this lamp bright requires a fresh and lively awareness. A 'new dawn' occurs when we bring this light into our daily household lives. By calling this inner brightness (Belaku) our true wealth, the poem encourages a cheerful, witty, and resilient approach to life's challenges, suggesting that humor and joy are essential for well-being.",
+    "audio_res": "poem_35",
+    "vocab": [
+      { "word": "Jyothi", "definition": "Lamp, flame, or light." },
+      { "word": "Belagu", "definition": "To shine or to light up." },
+      { "word": "Belaku", "definition": "Brightness." }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Sahitya Sagara",
+    "poet": "D.L. Narasimhachar",
+    "poet_bio": "Dharana Lambodara Narasimhachar (1906–1971), born in Chikkamagaluru, was a towering scholar of the Old Kannada language. He was an editor of many classical works and a lexicographer. He received the Sahitya Academy Award and was the president of the 41st Kannada Sahitya Sammelana. His poetry is deeply informed by his scholarship and love for ancient linguistic roots.",
+    "content": "Sahitya sagara dalli, hosa hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee kalasiri.",
+    "meaning": "DLN compares the vast world of literature (Sahitya) to an endless ocean. He suggests that exploring this ocean requires a refined sense of awareness. A 'new dawn' in our culture occurs when we dive into this literary sea and discover the treasures within. By calling 'artistic prosperity' (Kalasiri) our true wealth, he emphasizes that the intellectual and creative output of a society is its most valuable and enduring legacy.",
+    "audio_res": "poem_36",
+    "vocab": [
+      { "word": "Sahitya", "definition": "Literature." },
+      { "word": "Sagara", "definition": "Ocean." },
+      { "word": "Kalasiri", "definition": "Artistic wealth or prosperity." }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Hosa Belaku",
+    "poet": "P.T. Narasimhachar",
+    "poet_bio": "Purohitha Thirunarayana Narasimhachar (1905–1998), born in Melukote, is famous for his lyrical beauty and spiritual depth. He won the Sahitya Academy Award and the Pampa Award. He was a master of the 'Navodaya' movement. His work often explored the divine aspects of nature and human life, often set to classical music rhythms.",
+    "content": "Hosa belaku barali, hosa hushaaru,\nHosa udaya bandide, namma badukali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee udaya.",
+    "meaning": "In this spiritual plea, Pu Ti Na asks for a 'new light' (Hosa Belaku) to illuminate our lives. He suggests that true progress is a spiritual awakening that brings a new sense of awareness. This 'inner dawn' is described as the pinnacle and true wealth of our existence. The poem is a hopeful prayer for guidance, truth, and a life that is constantly renewed by divine grace and intellectual clarity.",
+    "audio_res": "poem_37",
+    "vocab": [
+      { "word": "Hosa", "definition": "New." },
+      { "word": "Belaku", "definition": "Light." },
+      { "word": "Barali", "definition": "Let it come." },
+      { "word": "Udaya", "definition": "Dawn or rising." }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Manada Maathu",
+    "poet": "Vaidehi",
+    "poet_bio": "Vaidehi (born 1944) is the pen name of Janaki Srinivasa Murthy, born in Kundapura. A major contemporary voice, she received the Sahitya Academy Award for her short stories. Her work is celebrated for its portrayal of the inner world of women, using a sensitive and detailed style. She is known for capturing the nuances of the 'Coastal Kannada' dialect and household dynamics.",
+    "content": "Manada maathu heluva, hosa hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee mouna.",
+    "meaning": "Vaidehi explores the concept of the 'inner voice' (Manada Maathu). She suggests that an honest dialogue with oneself leads to a 'new dawn' of personal awareness. In a world full of noise, she describes 'silence' (Mouna) as a form of wealth and the crown of a person's life. It is an invitation to value one's internal world and to find strength and clarity in the quiet reflections of the heart.",
+    "audio_res": "poem_38",
+    "vocab": [
+      { "word": "Manada", "definition": "Of the mind/heart." },
+      { "word": "Maathu", "definition": "Talk, word, or speech." },
+      { "word": "Mouna", "definition": "Silence." }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Nanna Haadu",
+    "poet": "Sujata Rangarajan",
+    "poet_bio": "Sujata Rangarajan is a contemporary writer whose poetry often deals with the existential and emotional experiences of the modern individual. Her work is part of the newer waves of Kannada poetry that prioritize personal freedom, identity, and the search for meaning in an increasingly complex and globalized society.",
+    "content": "Nanna haadu keliri, hosa hushaaru,\nHosa udaya bandide, namma badukali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee dwani.",
+    "meaning": "The poet asserts her right to her own 'song' (Haadu). She suggests that a 'new dawn' in life occurs when one finds the courage to express their true self. By calling her 'voice' (Dwani) her true wealth and the pinnacle of her existence, she celebrates individual expression as a fundamental human value. The poem encourages every reader to find and sing their own song, positioning it as a source of personal prosperity.",
+    "audio_res": "poem_39",
+    "vocab": [
+      { "word": "Keliri", "definition": "Please listen." },
+      { "word": "Haadu", "definition": "Song." },
+      { "word": "Dwani", "definition": "Voice or sound." }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Bannada Lokadalli",
+    "poet": "K.B. Siddaiah",
+    "poet_bio": "K.B. Siddaiah (1954–2019) was born in Tumkur. He was a prominent poet, philosopher, and activist of the Dalit movement. He used powerful, symbolic language to challenge social hierarchies and advocate for an inclusive society. His work is noted for its deep connection to the soil and its search for a universal human identity beyond the limitations of caste.",
+    "content": "Bannada lokadalli naavu, hosa hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee samate.",
+    "meaning": "Siddaiah envisions a 'colorful world' (Bannada Loka) where diversity is celebrated. He suggests that a 'new dawn' in our land is only possible if we achieve 'equality' (Samate). By calling this social equality the 'wealth' and 'pinnacle' of our life, the poem positions justice as the ultimate cultural goal. It is a visionary call to build a society where every individual's colors contribute to a larger, harmonious whole.",
+    "audio_res": "poem_40",
+    "vocab": [
+      { "word": "Bannada", "definition": "Colorful." },
+      { "word": "Naavu", "definition": "We." },
+      { "word": "Samate", "definition": "Equality." }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Jeevana Sangrama",
+    "poet": "Baraguru Ramachandrappa",
+    "poet_bio": "Baraguru Ramachandrappa (born 1946) was born in Baraguru. He is a prominent writer, filmmaker, and activist known for his socialist values. He served as the chairman of the Kannada Development Authority and was the president of the 82nd Kannada Sahitya Sammelana. His work, both in literature and cinema, is deeply committed to the struggles of the marginalized and the working class.",
+    "content": "Jeevana sangrama nadeyuttide, hosa hushaaru,\nHosa udaya bandide, namma neladali.\n\nNamma nudiyede jiva-mudi,\nSiriye namma ee horata.\n\nKaayakaave kailasavendu nambida ee neladalli,\nBettada kashtaviddaru hejje hinde idalaru.\nBadukinalli prathi dinavu ondu hosa sangrama,\nSamateya hosa udaya namma ee badukali nitya.",
+    "meaning": "Baraguru views life as a continuous 'battle' or 'struggle' (Sangrama). He suggests that a 'new dawn' in society is born from the persistent awareness of the common people. By calling this 'struggle' (Horata) the true wealth of life, he redefines prosperity as the courage to fight for dignity and justice. It is an inspiring call to view life's challenges not as burdens, but as meaningful engagements that define our cultural and personal character.",
+    "audio_res": "poem_41",
+    "vocab": [
+      { "word": "Jeevana", "definition": "Life." },
+      { "word": "Sangrama", "definition": "Battle or war." },
+      { "word": "Nadeyuttide", "definition": "Is happening." },
+      { "word": "Horata", "definition": "Struggle or fight." }
+    ]
+  }
+]
