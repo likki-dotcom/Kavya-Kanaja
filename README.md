@@ -24,6 +24,9 @@ Karnataka possesses a 2,000-year-old literary history, yet "Old Kannada" (Halega
 
 
 <img width="738" height="1600" alt="WhatsApp Image 2026-05-15 at 5 21 17 PM (2)" src="https://github.com/user-attachments/assets/1c59d793-4e6a-4f62-a351-ab6432b58410" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-15 at 5 21 17 PM (1)" src="https://github.com/user-attachments/assets/77f58f08-65e1-4a23-bf09-d96d97426be8" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-15 at 5 21 17 PM" src="https://github.com/user-attachments/assets/a2def69f-35b2-4e9c-83e8-0676a1fa3430" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-05-15 at 5 21 16 PM" src="https://github.com/user-attachments/assets/e7047d9e-8f5d-478e-a45c-671214372054" />
 
 ## 📥 Installation
 1. Download the latest APK from the [Releases](https://github.com/likki-dotcom/Kavya-Kanaja/releases) section.
